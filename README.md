@@ -13,3 +13,19 @@ Learning AWS cloud networking concepts from a Senior Network Engineer perspectiv
 
 ## Goal
 Build strong cloud networking and hybrid infrastructure expertise.
+
+## AWS Networking Progress
+
+### Completed Topics
+- AWS Global Infrastructure
+- IAM Basics
+- MFA Setup
+- VPC Fundamentals
+- Subnets
+- Route Tables
+- Internet Gateway Basics
+
+### Current Learning Focus
+- AWS Cloud Networking
+- Hybrid Cloud Infrastructure
+- Enterprise Networking in AWS
